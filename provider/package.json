@@ -1,0 +1,16 @@
+{
+  "name": "provider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.7"
+  },
+  "dependencies": {
+    "plow-js": "^2.1.0"
+  }
+}
